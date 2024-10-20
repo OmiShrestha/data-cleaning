@@ -28,3 +28,17 @@ The main objectives of this project are:
 2. **Remove Duplicates**:
    - Use SQL queries to identify duplicates based on key columns (e.g., company name, location, date of layoffs).
    - Implement a `DELETE` statement using a Common Table Expression (CTE) or other methods to remove duplicate records.
+  
+3. **Handle Null or Blank Values**:
+   - Identify columns that contain null or blank values using `IS NULL` or `=''` in SQL queries.
+   - Decide on a strategy to handle these values, such as:
+     - Replacing null or blank values with a default value (e.g., "Unknown" for company location).
+     - Removing records that contain null or blank values in critical columns.
+   - Use `UPDATE` statements to replace or `DELETE` statements to remove records as per the chosen strategy.
+
+4. **Remove Unnecessary Columns**:
+   - Review the dataset to identify columns that do not contribute to the analysis (e.g., columns with too many null values or irrelevant information).
+   - Use the `ALTER TABLE` statement to drop these unnecessary columns.
+   - Example SQL command to drop a column:
+     ```sql
+     ALTER TABLE layoffs DROP COLUMN column_name;
