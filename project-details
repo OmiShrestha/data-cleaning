@@ -1,0 +1,6 @@
+*.java linguist-language=Java
+*.py linguist-language=Python
+*.sql linguist-language=SQL
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
