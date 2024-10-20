@@ -1,4 +1,4 @@
-## data-cleaning | `world_layoffs` .csv file
+# data-cleaning
 
 ## Project Overview
 This project involves the data cleaning of a `world_layoffs` Excel file to ensure the data is accurate, consistent, and ready for analysis. The cleaning process utilizes SQL queries executed through MySQL Workbench to efficiently manipulate and transform the data.
