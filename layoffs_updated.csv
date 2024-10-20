@@ -1,0 +1,481 @@
+"company";"location";"industry";"total_laid_off";"percentage_laid_off";"date";"stage";"country";"funds_raised_millions"
+"#Paid";"Toronto";"Marketing";19;"0.17";"2023-01-27";"Series B";"Canada";21
+"80 Acres Farms";"Cincinnati";"Food";0;"0.1";"2023-01-18";"Unknown";"United States";275
+"8x8";"SF Bay Area";"Support";155;"0.07";"2023-01-18";"Post-IPO";"United States";253
+"Addepar";"SF Bay Area";"Finance";20;"0.03";"2023-01-18";"Series F";"United States";491
+"Adobe";"SF Bay Area";"Marketing";100;"";"2022-12-06";"Post-IPO";"United States";2
+"Affirm";"SF Bay Area";"Finance";500;"0.19";"2023-02-08";"Post-IPO";"United States";1500
+"Airbnb";"SF Bay Area";"Travel";30;"";"2023-03-03";"Post-IPO";"United States";6400
+"Airtable";"SF Bay Area";"Product";254;"0.2";"2022-12-08";"Series F";"United States";1400
+"Aiven";"Helsinki";"Infrastructure";0;"0.2";"2023-01-18";"Series D";"Finland";420
+"Akili Labs";"Baltimore";"Healthcare";46;"0.3";"2023-01-12";"Seed";"United States";0
+"Alerzo";"Ibadan";"Retail";400;"";"2023-03-06";"Series B";"Nigeria";16
+"Alice";"Sao Paulo";"Healthcare";113;"0.16";"2022-12-09";"Series C";"Brazil";174
+"Amazon";"Seattle";"Retail";8000;"0.02";"2023-01-04";"Post-IPO";"United States";108
+"Ambev Tech";"Blumenau";"Food";50;"";"2023-03-02";"Acquired";"Brazil";0
+"Amdocs";"St. Louis";"Support";700;"0.03";"2023-01-02";"Post-IPO";"United States";0
+"American Robotics";"Boston";"Other";50;"0.65";"2023-01-17";"Acquired";"United States";92
+"Amount";"Chicago";"Finance";130;"0.25";"2023-02-27";"Unknown";"United States";283
+"Apollo";"SF Bay Area";"Product";0;"0.15";"2022-12-15";"Series D";"United States";183
+"Appgate";"Miami";"Security";34;"0.08";"2023-02-01";"Post-IPO";"United States";0
+"Arch Oncology";"Brisbane";"Healthcare";0;"1";"2023-01-13";"Series C";"United States";155
+"Armis";"SF Bay Area";"Security";25;"0.04";"2022-12-08";"Private Equity";"United States";537
+"Arrival";"London";"Transportation";800;"0.5";"2023-01-30";"Post-IPO";"United Kingdom";629
+"Articulate";"New York City";"Education";38;"";"2023-02-02";"Series A";"United States";1500
+"Astronomer";"Cincinnati";"Data";76;"0.2";"2023-01-04";"Series C";"United States";282
+"Atlassian";"Sydney";"Other";500;"0.05";"2023-03-06";"Post-IPO";"Australia";210
+"Attentive";"New York City";"Marketing";0;"0.15";"2023-01-05";"Series E";"United States";863
+"AU10TIX";"Tel Aviv";"Security";19;"0.09";"2023-01-31";"Unknown";"Israel";80
+"Augury";"New York City";"Manufacturing";20;"0.05";"2023-01-04";"Series E";"United States";274
+"Autodesk";"SF Bay Area";"Other";250;"0.02";"2023-02-02";"Post-IPO";"United States";0
+"Back Market";"Paris";"Retail";93;"0.13";"2022-12-23";"Series E";"France";1000
+"Bakkt";"Atlanta";"Crypto";0;"0.15";"2022-12-08";"Post-IPO";"United States";932
+"Bally's Interactive";"Providence";"Travel";0;"0.15";"2023-01-18";"Post-IPO";"United States";946
+"Balto";"St. Louis";"Sales";35;"";"2022-12-12";"Series B";"United States";51
+"Baraja";"Sydney";"Transportation";0;"0.75";"2023-02-08";"Unknown";"Australia";63
+"Bark";"New York City";"Retail";126;"0.12";"2023-02-09";"Post-IPO";"United States";0
+"Beam Benefits";"Columbus";"Healthcare";31;"0.08";"2023-02-08";"Series E";"United States";168
+"Beamery";"London";"HR";0;"0.12";"2023-01-10";"Series D";"United States";223
+"Benevity";"Calgary";"Other";137;"0.14";"2023-01-18";"Unknown";"Canada";69
+"Betterfly";"Santiago";"Healthcare";0;"0.3";"2023-01-18";"Series C";"Chile";204
+"Betterment";"New York City";"Finance";28;"";"2023-02-15";"Series F";"United States";435
+"BharatAgri";"Mumbai";"Food";40;"0.43";"2023-01-15";"Series A";"India";21
+"BigCommerce";"Austin";"Retail";180;"0.13";"2022-12-15";"Post-IPO";"United States";224
+"Bilibili";"Shanghai";"Media";0;"0.3";"2022-12-27";"Post-IPO";"China";3700
+"BitSight";"Tel Aviv";"Security";40;"";"2023-02-26";"Unknown";"Israel";401
+"BitTorrent";"SF Bay Area";"Infrastructure";92;"";"2023-01-20";"Acquired";"United States";0
+"Bittrex";"Seattle";"Crypto";80;"";"2023-02-02";"Unknown";"United States";0
+"Black Shark";"Shenzen";"Hardware";900;"";"2023-01-13";"Unknown";"China";0
+"BlackLine";"Los Angeles";"Finance";95;"0.05";"2022-12-08";"Private Equity";"United States";220
+"Blend";"SF Bay Area";"Finance";340;"0.28";"2023-01-10";"Post-IPO";"United States";665
+"Blockchain.com";"London";"Crypto";110;"0.28";"2023-01-12";"Series D";"United Kingdom";490
+"Blue Apron";"New York City";"Food";0;"0.1";"2022-12-08";"Post-IPO";"United States";352
+"BM Technologies";"Philadelphia";"Finance";0;"0.25";"2023-01-30";"Post-IPO";"United States";0
+"Bolt";"Lagos";"Transportation";17;"";"2023-02-21";"Series F";"Nigeria";0
+"Bolt";"SF Bay Area";"Finance";50;"0.1";"2023-01-24";"Series E";"United States";1300
+"Bonterra";"Austin";"Other";140;"0.1";"2023-01-13";"Unknown";"United States";0
+"Booktopia";"Sydney";"Retail";30;"";"2023-01-23";"Series A";"Australia";23
+"Bounce";"Bengaluru";"Transportation";40;"0.05";"2023-01-06";"Series D";"India";214
+"Britishvolt";"London";"Transportation";206;"1";"2023-01-17";"Unknown";"United Kingdom";2400
+"Briza";"Toronto";"Finance";26;"0.4";"2022-12-20";"Series A";"Canada";10
+"Brodmann17";"Tel Aviv";"Other";0;"1";"2022-12-09";"Series A";"Israel";25
+"Buser";"Sao Paulo";"Transportation";160;"0.3";"2022-12-08";"Series C";"Brazil";138
+"Bustle Digital Group";"New York City";"Media";0;"0.08";"2023-02-01";"Series E";"United States";80
+"Butterfly Network";"Boston";"Healthcare";0;"0.25";"2023-01-04";"Post-IPO";"United States";530
+"BuzzFeed";"New York City";"Media";180;"0.12";"2022-12-06";"Post-IPO";"United States";696
+"Byju's";"Bengaluru";"Education";1500;"";"2023-02-02";"Private Equity";"India";5500
+"ByteDance";"Shanghai";"Consumer";0;"0.1";"2023-01-03";"Unknown";"China";9400
+"C2FO";"Kansas City";"Finance";20;"0.02";"2022-12-09";"Series H";"United States";537
+"Camp K12";"Gurugram";"Education";0;"0.7";"2023-01-23";"Series A";"India";16
+"Capital One";"Washington D.C.";"Finance";1100;"";"2023-01-19";"Post-IPO";"United States";0
+"Captain Fresh";"Bengaluru";"Food";120;"";"2023-01-15";"Series C";"India";126
+"Carbon Health";"SF Bay Area";"Healthcare";200;"";"2023-01-06";"Series D";"United States";522
+"Career Karma";"SF Bay Area";"Education";22;"";"2023-01-12";"Series B";"United States";51
+"Carta";"SF Bay Area";"HR";0;"0.1";"2023-01-11";"Series G";"United States";1100
+"Casavo";"Milan";"Real Estate";0;"0.3";"2023-02-13";"Unknown";"Italy";708
+"Cashfree Payments";"Bengaluru";"Finance";100;"";"2023-01-12";"Series B";"India";41
+"Catch.com.au";"Melbourne";"Retail";100;"";"2023-02-06";"Acquired";"Australia";80
+"Cerebral";"SF Bay Area";"Healthcare";285;"0.15";"2023-02-27";"Series C";"United States";462
+"Chainalysis";"New York City";"Crypto";44;"0.05";"2023-02-01";"Series F";"United States";536
+"Chipper Cash";"SF Bay Area";"Finance";100;"0.33";"2023-02-17";"Series C";"United States";302
+"Chope";"Singapore";"Food";65;"0.24";"2022-12-20";"Series E";"Singapore";50
+"ChowNow";"Los Angeles";"Food";40;"0.1";"2022-12-14";"Series C";"United States";64
+"Chrono24";"Karlsruhe";"Retail";65;"0.13";"2023-01-30";"Series C";"Germany";205
+"Chrono24";"Karlsruhe";"Retail";80;"";"2022-12-08";"Series C";"Germany";205
+"CircleCI";"SF Bay Area";"Product";0;"0.17";"2022-12-07";"Series F";"United States";315
+"Citizen";"New York City";"Consumer";33;"";"2023-01-11";"Series C";"United States";133
+"Citrine Informatics";"SF Bay Area";"Data";22;"0.27";"2023-01-20";"Series C";"United States";64
+"Citrix";"Miami";"Infrastructure";0;"0.15";"2023-01-10";"Acquired";"United States";20
+"Clari";"SF Bay Area";"Sales";20;"";"2023-02-06";"Series F";"United States";496
+"Clear Capital";"Reno";"Real Estate";250;"0.25";"2023-01-25";"Unknown";"United States";0
+"ClearCo";"Toronto";"Finance";50;"0.3";"2023-01-16";"Series C";"Canada";698
+"Clue";"Berlin";"Healthcare";31;"0.31";"2023-01-18";"Unknown";"Germany";47
+"Clutch";"Toronto";"Transportation";150;"";"2023-01-17";"Unknown";"Canada";253
+"CNET";"SF Bay Area";"Media";12;"0.1";"2023-03-02";"Acquired";"United States";20
+"CoachHub";"Berlin";"HR";0;"0.1";"2023-01-24";"Series C";"Germany";332
+"Coinbase";"SF Bay Area";"Crypto";950;"0.2";"2023-01-10";"Post-IPO";"United States";549
+"CoinDCX";"Mumbai";"Crypto";80;"";"2023-01-11";"Series D";"India";244
+"CoinTracker";"SF Bay Area";"Crypto";19;"";"2023-01-28";"Series A";"United States";101
+"Collective Health";"SF Bay Area";"Healthcare";54;"";"2023-02-13";"Series F";"United States";719
+"Color Health";"SF Bay Area";"Healthcare";300;"";"2023-03-01";"Series E";"United States";482
+"CommerceHub";"Albany";"Retail";371;"0.31";"2023-02-14";"Acquired";"United States";0
+"Confluent";"SF Bay Area";"Data";221;"0.08";"2023-01-26";"Post-IPO";"United States";455
+"ConsenSys";"New York City";"Crypto";100;"0.11";"2023-01-10";"Series D";"United States";726
+"Corvus Insurance";"Boston";"Finance";0;"0.14";"2023-01-24";"Series C";"United States";160
+"Crunchyroll";"Tokyo";"Media";85;"";"2023-02-21";"Unknown";"Japan";26
+"Crypto.com";"Singapore";"Crypto";0;"0.2";"2023-01-12";"Unknown";"United States";0
+"CS Disco";"Austin";"Legal";62;"0.09";"2023-01-19";"Post-IPO";"United States";233
+"Cue";"San Diego";"Healthcare";388;"";"2023-01-05";"Post-IPO";"United States";999
+"CyCognito";"SF Bay Area";"Security";30;"0.15";"2022-12-08";"Series C";"United States";153
+"Cyren";"Washington D.C.";"Security";121;"";"2023-02-01";"Post-IPO";"United States";161
+"Cyteir Therapeutics";"Boston";"Healthcare";0;"0.7";"2023-01-20";"Series C";"United States";156
+"Dapper Labs";"Vancouver";"Crypto";0;"0.2";"2023-02-23";"Series D";"United States";607
+"Daraz";"Singapore";"Retail";0;"0.11";"2023-02-06";"Unknown";"Singapore";0
+"DealShare";"Bengaluru";"Retail";100;"0.06";"2023-01-27";"Series E";"India";390
+"Definitive Healthcare";"Boston";"Healthcare";55;"0.06";"2023-01-12";"Post-IPO";"United States";0
+"DeHaat";"Patna";"Food";0;"0.05";"2023-01-15";"Series E";"India";254
+"Deliveroo";"London";"Food";350;"0.09";"2023-02-09";"Post-IPO";"United Kingdom";1700
+"Delivery Hero";"Berlin";"Food";156;"0.04";"2023-01-30";"Post-IPO";"Germany";9900
+"Dell";"Austin";"Hardware";6650;"0.05";"2023-02-06";"Post-IPO";"United States";0
+"Digital Surge";"Brisbane";"Crypto";0;"1";"2022-12-09";"Unknown";"Australia";0
+"DigitalOcean";"New York City";"Infrastructure";200;"0.11";"2023-02-15";"Post-IPO";"United States";491
+"DocuSign";"SF Bay Area";"Sales";680;"0.1";"2023-02-16";"Post-IPO";"United States";536
+"Doma";"SF Bay Area";"Finance";515;"0.4";"2022-12-06";"Post-IPO";"United States";679
+"DraftKings";"Boston";"Consumer";140;"0.04";"2023-02-01";"Post-IPO";"United States";719
+"Drift";"Boston";"Marketing";59;"";"2023-02-06";"Acquired";"United States";107
+"DriveWealth";"Jersey City";"Finance";0;"0.2";"2023-01-26";"Series D";"United States";550
+"Dunzo";"Bengaluru";"Food";0;"0.03";"2023-01-16";"Unknown";"India";382
+"DUX Education";"Bengaluru";"Education";0;"1";"2023-02-28";"Unknown";"India";0
+"Earth Rides";"Nashville";"Transportation";0;"1";"2023-01-19";"Unknown";"United States";2
+"Eat Just";"SF Bay Area";"Food";40;"";"2023-02-24";"Unknown";"United States";465
+"eBay";"SF Bay Area";"Retail";500;"0.04";"2023-02-07";"Post-IPO";"United States";1200
+"Edgio";"Phoenix";"Infrastructure";95;"0.1";"2022-12-13";"Post-IPO";"United States";462
+"Edifecs";"Seattle";"Healthcare";30;"";"2023-01-20";"Unknown";"United States";1
+"Editas Medicine";"Boston";"Healthcare";0;"0.2";"2023-01-09";"Post-IPO";"United States";656
+"Electric";"New York City";"Other";141;"0.25";"2023-02-13";"Series D";"United States";212
+"Electronic Arts";"Baton Rouge";"Consumer";200;"";"2023-02-28";"Post-IPO";"United States";2
+"Element";"London";"Other";0;"0.15";"2022-12-25";"Series B";"United Kingdom";96
+"Embark";"Boston";"Healthcare";41;"";"2023-01-11";"Series B";"United States";94
+"Embark Trucks";"SF Bay Area";"Transportation";230;"0.7";"2023-03-03";"Post-IPO";"United States";317
+"EMX Digital";"New York City";"Marketing";100;"1";"2023-02-13";"Unknown";"United States";0
+"Enjoei";"Sao Paulo";"Retail";31;"0.1";"2023-01-20";"Unknown";"Brazil";14
+"Equitybee";"SF Bay Area";"Finance";24;"0.25";"2023-02-08";"Series B";"United States";85
+"Ericsson";"Stockholm";"Other";8500;"0.08";"2023-02-24";"Post-IPO";"Sweden";663
+"Ermetic";"SF Bay Area";"Security";30;"0.17";"2023-01-23";"Series B";"United States";97
+"Esper";"Seattle";"Other";0;"0.21";"2023-01-10";"Series A";"United States";10
+"Ethos Life";"SF Bay Area";"Finance";50;"";"2023-02-21";"Series D";"United States";406
+"Eventbrite";"SF Bay Area";"Consumer";80;"0.08";"2023-02-28";"Post-IPO";"United States";557
+"Everlane";"SF Bay Area";"Retail";30;"0.17";"2023-01-05";"Unknown";"United States";176
+"Evernote";"SF Bay Area";"Consumer";129;"";"2023-02-17";"Acquired";"United States";290
+"EVgo";"Los Angeles";"Transportation";40;"";"2023-02-23";"Post-IPO";"United States";400
+"Exotel";"Bengaluru";"Support";142;"0.15";"2023-01-17";"Series D";"India";87
+"Exterro";"Portland";"Legal";24;"0.03";"2023-02-01";"Private Equity";"United States";100
+"FarEye";"New Delhi";"Logistics";90;"";"2023-02-03";"Series E";"India";150
+"Fate Therapeutics";"San Diego";"Healthcare";315;"0.57";"2023-01-09";"Post-IPO";"United States";1200
+"Finder";"Sydney";"Retail";0;"0.15";"2023-02-03";"Unknown";"Australia";30
+"Fipola";"Chennai";"Food";0;"1";"2023-02-20";"Series A";"United States";9
+"Fireblocks";"New York City";"Crypto";30;"0.05";"2023-02-20";"Series E";"United States";1000
+"Fittr";"Pune";"Fitness";30;"0.11";"2023-03-02";"Series A";"India";13
+"Flexport";"SF Bay Area";"Logistics";640;"0.2";"2023-01-11";"Series E";"United States";2400
+"ForeScout";"SF Bay Area";"Security";100;"0.1";"2023-01-10";"Post-IPO";"United States";125
+"Frequency Therapeutics";"Boston";"Healthcare";0;"0.5";"2023-02-01";"Post-IPO";"United States";76
+"Freshly";"Phoenix";"Food";329;"";"2022-12-12";"Acquired";"United States";107
+"Freshworks";"SF Bay Area";"Support";90;"0.02";"2022-12-15";"Post-IPO";"United States";484
+"Gemini";"New York City";"Crypto";0;"0.1";"2023-01-23";"Unknown";"United States";423
+"Genesis";"New York City";"Crypto";60;"0.3";"2023-01-05";"Series A";"United States";0
+"Getaround";"SF Bay Area";"Transportation";0;"0.1";"2023-02-02";"Post-IPO";"United States";948
+"Getir";"New York City";"Food";100;"";"2023-02-02";"Series E";"United States";1800
+"GitHub";"SF Bay Area";"Product";0;"0.1";"2023-02-09";"Acquired";"United States";350
+"GitLab";"SF Bay Area";"Product";130;"0.07";"2023-02-09";"Post-IPO";"United States";413
+"Gitpod";"Kiel";"Product";21;"0.28";"2023-01-24";"Series A";"Germany";41
+"Glints";"Singapore";"HR";198;"0.18";"2022-12-08";"Series D";"Singapore";82
+"Glovo";"Barcelona";"Food";250;"0.06";"2023-01-30";"Acquired";"Spain";1200
+"GoBolt";"Toronto";"Logistics";55;"0.05";"2023-01-10";"Series C";"Canada";178
+"GoDaddy";"Phoenix";"Marketing";530;"0.08";"2023-02-08";"Post-IPO";"United States";800
+"Gokada";"Lagos";"Transportation";54;"";"2023-01-31";"Unknown";"Nigeria";12
+"GoMechanic";"Gurugram";"Transportation";0;"0.7";"2023-01-17";"Series C";"India";54
+"Gong";"SF Bay Area";"Sales";80;"0.07";"2023-02-08";"Series E";"United States";583
+"Google";"SF Bay Area";"Consumer";12000;"0.06";"2023-01-20";"Post-IPO";"United States";26
+"GoStudent";"Vienna";"Education";100;"";"2022-12-14";"Series D";"Austria";686
+"Gramophone";"Indore";"Food";75;"";"2023-01-16";"Series B";"India";17
+"Greenlight";"Atlanta";"Finance";104;"0.21";"2023-01-12";"Series D";"United States";556
+"Groupon";"Chicago";"Retail";500;"";"2023-01-30";"Post-IPO";"United States";1400
+"Grover";"Berlin";"Retail";40;"0.1";"2022-12-07";"Unknown";"United States";2300
+"Guardant Health";"SF Bay Area";"Healthcare";130;"0.07";"2023-01-25";"Post-IPO";"United States";550
+"Gusto";"SF Bay Area";"HR";126;"0.05";"2023-02-08";"Series E";"United States";746
+"HackerEarth";"SF Bay Area";"HR";0;"0.08";"2023-02-14";"Series B";"United States";11
+"Harappa";"New Delhi";"Education";60;"0.3";"2023-01-03";"Acquired";"India";0
+"HashiCorp";"SF Bay Area";"Security";69;"";"2023-01-11";"Post-IPO";"United States";349
+"Headspace";"Los Angeles";"Healthcare";50;"0.04";"2022-12-14";"Unknown";"United States";215
+"Heycar";"Berlin";"Transportation";73;"";"2023-01-27";"Unknown";"Germany";0
+"Highspot";"Seattle";"Sales";100;"0.1";"2023-02-02";"Series F";"United States";644
+"Homebot";"Denver";"Real Estate";18;"0.13";"2022-12-19";"Acquired";"United States";4
+"Hootsuite";"Vancouver";"Marketing";70;"0.07";"2023-01-18";"Series C";"Canada";300
+"Houzz";"SF Bay Area";"Consumer";95;"0.08";"2022-12-07";"Series E";"United States";613
+"HP";"Tel Aviv";"Hardware";100;"";"2023-02-19";"Post-IPO";"Israel";4200
+"Hubilo";"SF Bay Area";"Other";115;"0.35";"2023-01-19";"Series B";"United States";153
+"HubSpot";"Boston";"Marketing";500;"0.07";"2023-01-31";"Post-IPO";"United States";100
+"Huobi";"Beijing";"Crypto";275;"0.2";"2023-01-06";"Unknown";"China";2
+"Hydrow";"Boston";"Fitness";30;"";"2023-01-19";"Series D";"United States";269
+"IBM";"New York City";"Hardware";3900;"0.02";"2023-01-25";"Post-IPO";"United States";0
+"iFood";"Sao Paulo";"Food";355;"0.06";"2023-03-01";"Subsidiary";"Brazil";2100
+"Ignition";"Sydney";"Finance";0;"0.1";"2023-01-16";"Series C";"Australia";74
+"Immutable";"Sydney";"Crypto";0;"0.11";"2023-02-22";"Series C";"Australia";279
+"Impossible Foods copy";"SF Bay Area";"Food";140;"0.2";"2023-01-30";"Series H";"United States";1900
+"Improbable";"London";"Other";0;"0.1";"2022-12-16";"Unknown";"United Kingdom";704
+"Informatica";"SF Bay Area";"Data";450;"0.07";"2023-01-10";"Post-IPO";"United States";0
+"Inmobi";"Bengaluru";"Marketing";50;"";"2023-01-23";"Unknown";"India";320
+"Innovaccer";"SF Bay Area";"Healthcare";245;"0.15";"2023-01-24";"Series E";"United States";379
+"Innovid";"New York City";"Marketing";40;"0.1";"2023-01-23";"Post-IPO";"United States";295
+"Inscripta";"Boulder";"Healthcare";43;"";"2022-12-08";"Series E";"United States";459
+"Inspirato";"Denver";"Travel";109;"0.12";"2023-01-18";"Post-IPO";"United States";179
+"Integral Ad Science";"New York City";"Marketing";120;"0.13";"2022-12-07";"Acquired";"United States";116
+"Intel";"SF Bay Area";"Hardware";201;"";"2022-12-06";"Post-IPO";"United States";12
+"Intel";"SF Bay Area";"Hardware";343;"";"2023-01-30";"Post-IPO";"United States";12
+"Intrinsic";"SF Bay Area";"Other";40;"0.2";"2023-01-11";"Acquired";"United States";0
+"iRobot";"Boston";"Consumer";85;"0.07";"2023-02-13";"Acquired";"United States";30
+"JD.ID";"Jakarta";"Retail";200;"0.3";"2022-12-14";"Post-IPO";"Indonesia";5100
+"Jellyfish";"Boston";"Product";0;"0.09";"2023-01-13";"Series C";"United States";114
+"Jellysmack";"Paris";"Media";208;"";"2023-02-15";"Series C";"France";22
+"Jounce Therapeutics";"Boston";"Healthcare";0;"0.57";"2023-02-22";"Acquired";"United States";194
+"Jumio";"SF Bay Area";"Security";100;"0.06";"2023-01-11";"Private Equity";"United States";205
+"Jumpcloud";"Boulder";"Security";100;"0.12";"2023-01-18";"Series F";"United States";416
+"Kaltura";"New York City";"Media";75;"0.11";"2023-01-04";"Post-IPO";"United States";166
+"Kandela";"Los Angeles";"Consumer";0;"1";"2023-03-02";"Acquired";"United States";0
+"Karat";"Seattle";"HR";47;"";"2023-01-20";"Unknown";"United States";169
+"Kinde";"Sydney";"Other";8;"0.28";"2023-02-20";"Seed";"Australia";10
+"Koho";"Toronto";"Finance";0;"0.14";"2023-02-08";"Series D";"Canada";278
+"Komodo Health";"SF Bay Area";"Healthcare";78;"0.09";"2022-12-13";"Series E";"United States";514
+"Kyruus";"Boston";"Healthcare";70;"";"2023-02-05";"Unknown";"United States";183
+"Lam Research";"SF Bay Area";"Hardware";1300;"0.07";"2023-01-25";"Post-IPO";"United States";0
+"Lantern";"Grand Rapids";"Retail";0;"1";"2023-01-06";"Seed";"United States";40
+"Lattice";"SF Bay Area";"HR";0;"0.15";"2023-01-12";"Series F";"United States";328
+"LEAD";"Mumbai";"Education";60;"";"2023-01-10";"Series E";"India";190
+"LeafLink";"New York City";"Other";80;"0.31";"2022-12-15";"Series C";"United States";379
+"LearnUpon";"Dublin";"Education";27;"0.09";"2023-02-07";"Private Equity";"Ireland";56
+"Lendi";"Sydney";"Real Estate";100;"";"2023-03-03";"Unknown";"Australia";59
+"Lending Club";"SF Bay Area";"Finance";225;"0.14";"2023-01-12";"Post-IPO";"United States";392
+"Lendis";"Berlin";"Other";0;"0.5";"2022-12-21";"Series A";"Germany";90
+"Lev";"New York City";"Real Estate";30;"0.3";"2022-12-07";"Series B";"United States";114
+"Life360";"SF Bay Area";"Consumer";0;"0.14";"2023-01-12";"Post-IPO";"United States";158
+"Lightico";"Tel Aviv";"Finance";20;"0.25";"2023-02-05";"Series B";"Israel";42
+"Lightspeed Commerce";"Montreal";"Retail";300;"0.1";"2023-01-17";"Post-IPO";"Canada";1200
+"Limeade";"Seattle";"HR";0;"0.15";"2023-01-11";"Series C";"United States";33
+"Lithic";"New York City";"Finance";27;"0.18";"2022-12-07";"Series C";"United States";115
+"LiveVox";"SF Bay Area";"Support";0;"0.16";"2023-01-17";"Post-IPO";"United States";12
+"Locomation";"Pittsburgh";"Transportation";0;"1";"2023-02-22";"Seed";"United States";57
+"Loft";"Sao Paulo";"Real Estate";312;"0.12";"2022-12-07";"Unknown";"Brazil";788
+"Loft";"Sao Paulo";"Real Estate";340;"0.15";"2023-03-03";"Unknown";"Brazil";788
+"Loggi";"Sao Paulo";"Logistics";300;"0.07";"2023-02-06";"Series F";"Brazil";507
+"Lucid Diagnostics";"New York City";"Healthcare";0;"0.2";"2023-01-18";"Post-IPO";"United States";0
+"Lucira Health";"SF Bay Area";"Healthcare";26;"";"2023-02-24";"Post-IPO";"United States";132
+"Luno";"London";"Crypto";330;"0.35";"2023-01-25";"Acquired";"United Kingdom";13
+"Luxury Presence";"Los Angeles";"Real Estate";44;"";"2023-01-17";"Series B";"United States";31
+"Magic Eden";"SF Bay Area";"Crypto";22;"";"2023-02-13";"Series B";"United States";170
+"Magnite";"Los Angeles";"Marketing";0;"0.06";"2023-01-19";"Post-IPO";"United States";400
+"Mapbox";"Washington D.C.";"Data";64;"";"2023-01-12";"Unknown";"United States";334
+"MariaDB";"Helsinki";"Data";0;"0.08";"2023-02-01";"Post-IPO";"Finland";245
+"MasterClass";"SF Bay Area";"Education";79;"";"2023-03-02";"Series E";"United States";461
+"Match Group";"New York City";"Consumer";0;"0.08";"2023-02-01";"Post-IPO";"United States";0
+"Matrixport";"Singapore";"Crypto";29;"0.1";"2023-01-27";"Series C";"Singapore";100
+"Me Poupe";"Sao Paulo";"Finance";60;"0.5";"2023-01-28";"Unknown";"Brazil";0
+"Medallia";"SF Bay Area";"Support";59;"";"2023-02-24";"Acquired";"United States";325
+"MediBuddy";"Bengaluru";"Healthcare";200;"";"2023-01-20";"Acquired";"India";192
+"Medly";"New York City";"Healthcare";0;"1";"2023-02-08";"Series C";"United States";100
+"Merative";"Ann Arbor";"Healthcare";200;"0.1";"2023-02-23";"Acquired";"United States";0
+"MeridianLink";"Los Angeles";"Finance";0;"0.09";"2023-02-28";"Post-IPO";"United States";485
+"Messari";"New York City";"Crypto";0;"0.15";"2023-02-23";"Series B";"United States";61
+"Microsoft";"Seattle";"Other";10000;"0.05";"2023-01-18";"Post-IPO";"United States";1
+"Milkrun";"Sydney";"Food";0;"0.2";"2023-02-15";"Series A";"Australia";86
+"Mindstrong";"SF Bay Area";"Healthcare";127;"";"2023-02-02";"Series C";"United States";160
+"Minute Media";"London";"Media";50;"0.1";"2023-01-08";"Series I";"United Kingdom";160
+"Miro";"SF Bay Area";"Other";119;"0.07";"2023-02-02";"Series C";"United States";476
+"Misfits Market";"Philadelphia";"Food";649;"0.33";"2023-02-09";"Series C";"United States";526
+"Mode Global";"London";"Finance";0;"1";"2023-01-26";"Post-IPO";"United Kingdom";0
+"Modern Treasury";"SF Bay Area";"Finance";0;"0.18";"2022-12-16";"Series C";"United States";183
+"Moglix";"Singapore";"Retail";40;"0.02";"2023-01-05";"Series F";"Singapore";472
+"Mojo Vision";"SF Bay Area";"Hardware";0;"0.75";"2023-01-06";"Series B";"United States";204
+"Moladin";"Jakarta";"Transportation";360;"0.11";"2023-02-12";"Series B";"Indonesia";138
+"Momentive";"SF Bay Area";"Marketing";0;"0.14";"2023-02-15";"Post-IPO";"United States";1100
+"Motive";"SF Bay Area";"Transportation";237;"0.06";"2022-12-07";"Series F";"United States";567
+"Mudafy";"Mexico City";"Real Estate";0;"0.7";"2023-01-19";"Series A";"United States";13
+"MyGate";"Bengaluru";"Other";200;"0.3";"2023-02-20";"Series B";"India";79
+"Namogoo";"Tel Aviv";"Marketing";20;"0.15";"2023-01-23";"Series C";"United States";69
+"National Instruments";"Austin";"Hardware";0;"0.04";"2023-01-31";"Post-IPO";"United States";0
+"NCC Group";"Manchester";"Security";125;"0.07";"2023-02-02";"Post-IPO";"United Kingdom";0
+"nCino";"Wilmington";"Finance";100;"0.07";"2023-01-18";"Post-IPO";"United States";1100
+"NCSoft";"Seoul";"Consumer";0;"0.2";"2023-02-02";"Post-IPO";"South Korea";240
+"Nearmap";"Sydney";"Construction";0;"0.2";"2023-02-08";"Acquired";"Australia";15
+"Neon";"Sao Paulo";"Finance";210;"0.09";"2023-02-15";"Series D";"Brazil";720
+"Nerdy";"St. Louis";"Education";0;"0.17";"2022-12-08";"Post-IPO";"United States";150
+"NetApp";"SF Bay Area";"Data";960;"0.08";"2023-01-31";"Post-IPO";"United States";0
+"Nomad Health";"New York City";"Healthcare";119;"0.17";"2023-02-09";"Unknown";"United States";218
+"Octopus Network";"Beau Vallon";"Crypto";0;"0.4";"2022-12-27";"Series A";"Seychelles";8
+"OFFOR Health";"Columbus";"Healthcare";16;"";"2023-01-24";"Series A";"United States";14
+"Okta";"SF Bay Area";"Security";300;"0.05";"2023-02-02";"Post-IPO";"United States";1200
+"Ola";"Bengaluru";"Transportation";200;"";"2023-01-13";"Series J";"India";5000
+"Olive AI";"Columbus";"Healthcare";215;"0.35";"2023-02-09";"Series H";"United States";856
+"OLX Group";"Amsterdam";"Marketing";1500;"0.15";"2023-01-30";"Acquired";"Netherlands";0
+"OneFootball";"Berlin";"Marketing";62;"0.115";"2022-12-09";"Series D";"Germany";442
+"OneFootball";"Berlin";"Marketing";150;"0.32";"2023-02-23";"Series D";"Germany";442
+"Openpay";"Melbourne";"Finance";83;"1";"2023-02-07";"Post-IPO";"Australia";299
+"OpenText";"Waterloo";"Data";0;"0.08";"2023-01-31";"Post-IPO";"Canada";1100
+"Oportun";"SF Bay Area";"Finance";155;"0.1";"2023-02-09";"Post-IPO";"United States";566
+"Otonomo";"Tel Aviv";"Transportation";80;"0.5";"2022-12-08";"Post-IPO";"Israel";231
+"Outreach";"Seattle";"Sales";70;"0.07";"2023-02-27";"Series G";"United States";489
+"Outschool";"SF Bay Area";"Education";43;"0.25";"2022-12-10";"Series D";"United States";240
+"Paddle";"London";"Finance";0;"0.08";"2023-01-11";"Series D";"United Kingdom";293
+"Pagaya";"New York City";"Finance";140;"0.2";"2023-01-18";"Post-IPO";"United States";571
+"PagBank";"Sao Paulo";"Finance";500;"0.07";"2023-01-16";"Post-IPO";"Brazil";0
+"PagerDuty";"SF Bay Area";"Product";0;"0.07";"2023-01-24";"Post-IPO";"United States";173
+"PagSeguro";"Sao Paulo";"Finance";0;"0.07";"2023-01-25";"Post-IPO";"Brazil";0
+"Palantir";"Denver";"Data";75;"0.02";"2023-02-27";"Post-IPO";"United States";3000
+"Parler";"Nashville";"Consumer";60;"0.75";"2023-01-10";"Series B";"United States";36
+"PartnerStack";"Toronto";"Sales";40;"0.2";"2023-01-24";"Series B";"Canada";36
+"PayFit";"Paris";"HR";200;"0.2";"2023-03-01";"Series E";"France";495
+"PayPal";"SF Bay Area";"Finance";2000;"0.07";"2023-01-31";"Post-IPO";"United States";216
+"PayU";"Amsterdam";"Finance";150;"0.06";"2022-12-26";"Acquired";"Netherlands";0
+"Pecan AI";"Tel Aviv";"Data";30;"0.25";"2023-01-05";"Series C";"Israel";116
+"Pegasystems";"Boston";"HR";245;"0.04";"2023-01-03";"Post-IPO";"United States";0
+"Personalis";"SF Bay Area";"Healthcare";0;"0.3";"2023-01-19";"Post-IPO";"United States";225
+"Personetics";"New York City";"Support";30;"0.08";"2023-01-05";"Private Equity";"United States";178
+"PetLove";"Sao Paulo";"Retail";94;"";"2023-02-13";"Series C";"Brazil";225
+"PhableCare";"Bengaluru";"Healthcare";0;"0.7";"2023-02-14";"Series B";"India";40
+"Philips";"Amsterdam";"Healthcare";6000;"0.13";"2023-01-30";"Post-IPO";"Netherlands";0
+"Pico Interactive";"SF Bay Area";"Other";400;"0.2";"2023-02-16";"Acquired";"United States";62
+"Pier";"Sao Paulo";"Finance";111;"0.39";"2023-01-12";"Series B";"Brazil";42
+"Pinterest";"SF Bay Area";"Consumer";150;"";"2023-02-01";"Post-IPO";"United States";1500
+"Plaid";"SF Bay Area";"Finance";260;"0.2";"2022-12-07";"Series D";"United States";734
+"Playtika";"Tel Aviv";"Consumer";600;"0.15";"2022-12-09";"Post-IPO";"Israel";0
+"Pluralsight";"Salt Lake City";"Education";400;"0.2";"2022-12-12";"Acquired";"United States";192
+"Plus One Robotics";"San Antonio";"Other";0;"0.1";"2023-01-26";"Series B";"United States";43
+"Pocket Aces";"Mumbai";"Media";50;"0.25";"2023-02-06";"Unknown";"India";19
+"Polygon";"Bengaluru";"Crypto";100;"0.2";"2023-02-21";"Unknown";"India";451
+"Poshmark";"SF Bay Area";"Retail";0;"0.02";"2023-02-24";"Acquired";"United States";153
+"Prime Trust";"Las Vegas";"Crypto";0;"0.33";"2023-01-30";"Series B";"United States";176
+"Primer";"London";"Finance";85;"0.33";"2022-12-09";"Series B";"United Kingdom";73
+"Prisma";"SF Bay Area";"Data";0;"0.28";"2023-01-19";"Series B";"United States";56
+"Prosus";"Amsterdam";"Other";0;"0.3";"2023-01-25";"Unknown";"Netherlands";0
+"Protego Trust Bank";"Seattle";"Crypto";0;"0.5";"2023-03-01";"Series A";"United States";70
+"Proterra";"SF Bay Area";"Transportation";300;"";"2023-01-19";"Post-IPO";"United States";1200
+"Protocol Labs";"SF Bay Area";"Crypto";89;"0.2";"2023-02-03";"Unknown";"United States";10
+"Qualcomm";"San Diego";"Hardware";153;"";"2022-12-22";"Post-IPO";"United States";0
+"Qualtrics";"Salt Lake City";"Other";270;"0.05";"2023-01-11";"Post-IPO";"United States";400
+"Quanergy Systems";"SF Bay Area";"Transportation";72;"";"2022-12-14";"Post-IPO";"United States";175
+"Quantum SI";"New Haven";"Healthcare";0;"0.12";"2023-01-30";"Post-IPO";"United States";425
+"Reach";"Calgary";"Retail";0;"0.12";"2022-12-16";"Series A";"Canada";30
+"Rebel Foods";"Mumbai";"Food";0;"0.02";"2023-01-16";"Unknown";"India";548
+"Recur Forever";"Miami";"Crypto";235;"";"2022-12-07";"Series A";"United States";55
+"Redbubble";"Melbourne";"Retail";0;"0.14";"2023-01-18";"Post-IPO";"Australia";55
+"REE Automotive";"Tel Aviv";"Transportation";31;"0.11";"2023-02-09";"Post-IPO";"Israel";317
+"Relativity";"Chicago";"Legal";150;"0.1";"2022-12-07";"Private Equity";"United States";125
+"Relevel";"Bengaluru";"HR";40;"0.2";"2023-01-10";"";"India";0
+"Revelate";"Montreal";"Data";24;"0.3";"2022-12-16";"Series A";"Canada";26
+"Rigetti Computing";"SF Bay Area";"Hardware";0;"0.28";"2023-02-10";"Post-IPO";"United States";298
+"RingCentral";"SF Bay Area";"Other";30;"";"2023-01-17";"Post-IPO";"United States";44
+"Riot Games";"Los Angeles";"Consumer";46;"";"2023-01-19";"Acquired";"United States";21
+"Rivian";"Detroit";"Transportation";0;"0.06";"2023-02-01";"Post-IPO";"United States";10700
+"Rock Content";"Miami";"Marketing";0;"0.15";"2023-01-12";"Series B";"United States";34
+"Ruggable";"Los Angeles";"Retail";100;"";"2023-01-27";"Seed";"United States";0
+"Saks.com";"New York City";"Retail";100;"0.05";"2023-01-19";"Unknown";"United States";965
+"Salesforce";"SF Bay Area";"Sales";8000;"0.1";"2023-01-04";"Post-IPO";"United States";65
+"Salesloft";"Atlanta";"Sales";100;"0.1";"2023-02-07";"Acquired";"United States";245
+"Sana Benefits";"Austin";"HR";0;"0.19";"2023-02-07";"Series B";"United States";106
+"SAP";"Walldorf";"Other";3000;"0.03";"2023-01-26";"Post-IPO";"Germany";1300
+"SAP Labs";"Bengaluru";"Other";300;"";"2023-02-24";"Subsidiary";"India";1300
+"Sayurbox";"Jakarta";"Food";0;"0.05";"2022-12-07";"Series C";"Indonesia";139
+"Scale AI";"SF Bay Area";"Data";0;"0.2";"2023-01-09";"Series E";"United States";602
+"Scoro";"London";"HR";0;"0.09";"2023-01-24";"Series B";"United Kingdom";23
+"SecureWorks";"Atlanta";"Security";212;"0.09";"2023-02-07";"Post-IPO";"United States";83
+"ServiceTitan";"Los Angeles";"Sales";221;"0.08";"2023-02-15";"Series G";"United States";1100
+"Shakepay";"Montreal";"Crypto";21;"0.25";"2023-01-27";"Series A";"Canada";45
+"Share Now";"Berlin";"Transportation";150;"0.36";"2022-12-09";"Acquired";"Germany";0
+"ShareChat";"Bengaluru";"Consumer";500;"0.2";"2023-01-16";"Series H";"India";1700
+"Shutterfly";"SF Bay Area";"Retail";360;"";"2023-01-25";"Acquired";"United States";50
+"SirionLabs";"Seattle";"Legal";130;"0.15";"2023-01-25";"Series D";"United States";171
+"SiriusXM";"New York City";"Media";475;"0.08";"2023-03-06";"Post-IPO";"United States";525
+"Skit.ai";"Bengaluru";"Support";115;"";"2023-01-12";"Series B";"India";28
+"SmartNews";"Tokyo";"Media";120;"0.4";"2023-01-12";"Series F";"United States";410
+"Smartsheet";"Seattle";"Other";85;"0.03";"2023-02-16";"Post-IPO";"United States";152
+"Snappy";"New York City";"Marketing";100;"0.3";"2023-01-15";"Series C";"United States";104
+"Snowplow";"London";"Data";40;"";"2023-02-02";"Series B";"United States";55
+"Socure";"Reno";"Finance";104;"0.19";"2023-01-05";"Series E";"United States";646
+"Software AG";"Frankfurt";"Data";200;"0.04";"2023-01-31";"Post-IPO";"Germany";344
+"Sonder";"SF Bay Area";"Travel";100;"0.14";"2023-03-01";"Post-IPO";"United States";839
+"SonderMind";"Denver";"Healthcare";0;"0.15";"2022-12-16";"Series C";"United States";183
+"Sono Motors";"Munich";"Transportation";300;"";"2023-02-27";"Post-IPO";"Germany";126
+"Sophos";"Oxford";"Security";450;"0.1";"2023-01-18";"Acquired";"United States";125
+"SoundHound";"SF Bay Area";"Other";200;"0.5";"2023-01-05";"Post-IPO";"United States";326
+"Splunk";"SF Bay Area";"Data";325;"0.04";"2023-02-01";"Post-IPO";"United States";2400
+"Spotify";"Stockholm";"Media";600;"0.06";"2023-01-23";"Post-IPO";"Sweden";2100
+"Sprinklr";"New York City";"Support";100;"0.04";"2023-02-15";"Post-IPO";"United States";429
+"SSense";"Montreal";"Retail";138;"0.07";"2023-01-27";"Series A";"Canada";0
+"Starry";"Boston";"Other";100;"0.24";"2023-01-18";"Post-IPO";"United States";260
+"Stax";"Orlando";"Finance";24;"";"2023-02-24";"Series D";"United States";263
+"Stitch Fix";"SF Bay Area";"Retail";0;"0.2";"2023-01-05";"Post-IPO";"United States";79
+"StreamElements";"Tel Aviv";"Media";40;"0.2";"2023-01-10";"Series B";"Israel";111
+"StrongDM";"SF Bay Area";"Infrastructure";40;"";"2023-02-23";"Series B";"United States";76
+"Stytch";"SF Bay Area";"Security";19;"0.25";"2023-02-27";"Series B";"United States";126
+"SuperRare";"Wilmington";"Crypto";0;"0.3";"2023-01-06";"Series A";"United States";9
+"Swiggy";"Bengaluru";"Food";250;"0.03";"2022-12-08";"Unknown";"India";3600
+"Swiggy";"Bengaluru";"Food";380;"0.06";"2023-01-20";"Unknown";"India";3600
+"Synamedia";"London";"Media";200;"0.12";"2023-02-22";"Unknown";"United Kingdom";0
+"Synopsys";"SF Bay Area";"Other";100;"";"2023-01-27";"Post-IPO";"United States";0
+"Tackle";"Boise";"Other";0;"0.15";"2023-02-15";"Series C";"United States";148
+"TaskUs";"San Antonio";"Support";186;"";"2023-02-22";"Post-IPO";"United States";279
+"TCR2";"Boston";"Healthcare";0;"0.4";"2023-01-05";"Post-IPO";"United States";173
+"TechTarget";"Boston";"Marketing";60;"0.05";"2022-12-08";"Post-IPO";"United States";115
+"Teladoc Health";"New York City";"Healthcare";300;"0.06";"2023-01-18";"Post-IPO";"United States";172
+"Tencent";"Shenzen";"Consumer";300;"";"2023-02-17";"Post-IPO";"China";12600
+"The Iconic";"Sydney";"Retail";69;"0.06";"2023-02-23";"Unknown";"Australia";0
+"The RealReal";"SF Bay Area";"Retail";230;"0.07";"2023-02-16";"Post-IPO";"United States";356
+"TheSkimm";"New York City";"Media";17;"0.1";"2023-02-01";"Series C";"United States";28
+"Thinkific";"Vancouver";"Education";76;"0.19";"2023-01-10";"Post-IPO";"Canada";22
+"Thoughtworks";"Chicago";"Other";500;"0.04";"2023-03-01";"Post-IPO";"United States";748
+"Thumbtack";"SF Bay Area";"Consumer";160;"0.14";"2022-12-13";"Series I";"United States";698
+"Tier Mobility";"Berlin";"Transportation";80;"0.07";"2023-01-25";"Series D";"Germany";646
+"TikTok India";"Mumbai";"Consumer";40;"";"2023-02-10";"Acquired";"India";9400
+"Till Payments";"Sydney";"Finance";120;"";"2023-01-10";"Series C";"Australia";95
+"Tilting Point";"New York City";"Consumer";60;"0.14";"2023-01-31";"Unknown";"United States";235
+"Tipalti";"SF Bay Area";"Finance";123;"0.11";"2023-01-11";"Series F";"United States";565
+"Tomorrow";"Hamburg";"Finance";30;"0.25";"2022-12-16";"Unknown";"Germany";29
+"TripleLift";"New York City";"Marketing";100;"0.2";"2023-02-10";"Acquired";"United States";16
+"Tul";"Bogota";"Construction";100;"";"2023-01-17";"Series B";"Colombia";218
+"TuSimple";"San Diego";"Transportation";350;"0.25";"2022-12-21";"Post-IPO";"United States";648
+"Twilio";"SF Bay Area";"Other";1500;"0.17";"2023-02-13";"Post-IPO";"United States";614
+"Twine Solutions";"Tel Aviv";"Hardware";30;"0.33";"2023-01-05";"Unknown";"Israel";50
+"Twitter";"SF Bay Area";"Consumer";40;"";"2023-01-05";"Post-IPO";"United States";12900
+"Twitter";"SF Bay Area";"Consumer";200;"0.1";"2023-02-25";"Post-IPO";"United States";12900
+"Uber Freight";"SF Bay Area";"Logistics";150;"0.03";"2023-01-23";"Subsidiary";"United States";2700
+"Udemy";"SF Bay Area";"Education";0;"0.1";"2023-02-14";"Post-IPO";"United States";311
+"Unico";"Sao Paulo";"Other";110;"0.1";"2023-01-17";"Series D";"Brazil";336
+"Uniphore";"SF Bay Area";"Support";76;"0.1";"2023-01-03";"Series E";"United States";620
+"Unity";"SF Bay Area";"Other";284;"0.03";"2023-01-17";"Post-IPO";"United States";1300
+"UpGrad";"Mumbai";"Education";120;"";"2023-03-06";"Unknown";"India";631
+"UpScalio";"Gurugram";"Retail";25;"0.15";"2023-01-05";"Series B";"India";62
+"Upstart";"SF Bay Area";"Finance";365;"0.2";"2023-01-31";"Post-IPO";"United States";144
+"UserTesting";"SF Bay Area";"Marketing";63;"";"2023-03-03";"Acquired";"United States";152
+"Vacasa";"Portland";"Travel";1300;"0.17";"2023-01-24";"Post-IPO";"United States";834
+"Vanta";"SF Bay Area";"Security";0;"0.14";"2022-12-08";"Series B";"United States";203
+"Vedantu";"Bengaluru";"Education";385;"";"2022-12-07";"Series E";"India";292
+"Velodyne Lidar";"SF Bay Area";"Transportation";220;"";"2023-02-24";"Acquired";"United States";575
+"Venngage";"Toronto";"Marketing";11;"0.2";"2023-01-24";"Unknown";"Canada";0
+"Veriff";"Tallinn";"Security";66;"0.12";"2023-02-09";"Series C";"Estonia";192
+"Verily";"SF Bay Area";"Healthcare";250;"0.15";"2023-01-11";"";"United States";3500
+"VerticalScope";"Toronto";"Media";60;"0.22";"2023-02-01";"Post-IPO";"Canada";0
+"Vial";"SF Bay Area";"Healthcare";40;"";"2023-01-13";"Series B";"United States";101
+"Viant";"Los Angeles";"Marketing";46;"0.13";"2022-12-13";"Post-IPO";"United States";0
+"Vibrent Health";"Washington D.C.";"Healthcare";0;"0.13";"2023-02-23";"Unknown";"United States";0
+"Vicarious Surgical";"Boston";"Healthcare";0;"0.14";"2023-02-15";"Post-IPO";"United States";185
+"Vimeo";"New York City";"Consumer";0;"0.11";"2023-01-04";"Post-IPO";"United States";450
+"VinFast US";"Los Angeles";"Transportation";80;"";"2023-02-06";"Subsidiary";"United States";0
+"Voi";"Stockholm";"Transportation";130;"0.13";"2022-12-07";"Series D";"United States";515
+"Vox Media";"Washington D.C.";"Media";130;"0.07";"2023-01-20";"Series F";"United States";307
+"Vroom";"New York City";"Transportation";275;"0.2";"2023-01-18";"Post-IPO";"United States";1300
+"WalkMe";"SF Bay Area";"Other";43;"0.03";"2023-01-08";"Post-IPO";"United States";307
+"Wallbox";"Barcelona";"Energy";0;"0.15";"2023-01-19";"Post-IPO";"Spain";167
+"Wayfair";"Boston";"Retail";1750;"0.1";"2023-01-20";"Post-IPO";"United States";1700
+"Waymo";"SF Bay Area";"Transportation";209;"0.08";"2023-03-01";"Subsidiary";"United States";5500
+"Weedmaps";"Los Angeles";"Other";175;"0.25";"2022-12-06";"Acquired";"United States";0
+"Wefox";"Berlin";"Finance";100;"";"2023-01-31";"Series D";"Germany";1300
+"WeTrade";"Bengaluru";"Crypto";0;"1";"2023-02-09";"Unknown";"India";0
+"WeWork";"New York City";"Real Estate";300;"";"2023-01-19";"Post-IPO";"United States";22200
+"Wheel";"Austin";"Healthcare";56;"0.28";"2023-02-01";"Series C";"United States";215
+"WHOOP";"Boston";"Fitness";0;"0.04";"2023-01-10";"Series F";"United States";404
+"Willow";"Sydney";"Real Estate";99;"0.22";"2022-12-23";"Unknown";"Australia";0
+"Wish";"SF Bay Area";"Retail";150;"0.17";"2023-01-31";"Post-IPO";"United States";1600
+"Wix";"Tel Aviv";"Marketing";370;"0.06";"2023-02-15";"Post-IPO";"Israel";58
+"Workato";"SF Bay Area";"Other";90;"0.1";"2023-02-01";"Series E";"United States";415
+"Workday";"SF Bay Area";"HR";525;"0.03";"2023-01-31";"Post-IPO";"United States";230
+"Workmotion";"Berlin";"HR";60;"0.2";"2022-12-15";"Series B";"United States";76
+"Wyre";"SF Bay Area";"Crypto";0;"1";"2023-01-04";"Unknown";"United States";29
+"Xentral";"Munich";"Product";20;"0.1";"2022-12-10";"Series B";"Germany";94
+"Yahoo";"SF Bay Area";"Consumer";1600;"0.2";"2023-02-09";"Acquired";"United States";6
+"Yellow.ai";"SF Bay Area";"Support";200;"";"2023-03-01";"Series C";"United States";102
+"Yext";"New York City";"Marketing";0;"0.08";"2023-01-23";"Post-IPO";"United States";117
+"YourGrocer";"Melbourne";"Food";0;"1";"2022-12-19";"Unknown";"Australia";2
+"ZenLedger";"Seattle";"Crypto";0;"0.1";"2022-12-09";"Series B";"United States";25
+"Zhihu";"Beijing";"Consumer";0;"0.1";"2022-12-20";"Series F";"China";892
+"Zoom";"SF Bay Area";"Other";1300;"0.15";"2023-02-07";"Post-IPO";"United States";276
+"Zoopla";"London";"Real Estate";50;"";"2022-12-23";"Series C";"United Kingdom";25
+"Zscaler";"SF Bay Area";"Security";177;"0.03";"2023-03-02";"Post-IPO";"United States";148
